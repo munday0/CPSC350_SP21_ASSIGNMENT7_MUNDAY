@@ -8,6 +8,7 @@
   - Rng.cpp
   - Sort.h
   - Makefile
+  - Assign7Report.pdf
 * Known errors:
   - none
 * References used:
